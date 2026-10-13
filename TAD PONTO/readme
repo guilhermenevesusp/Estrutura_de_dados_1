@@ -1,0 +1,7 @@
+O Livro de Estrutura do Backes propõe um TAD "PONTO" para calcular a distância de 2 pontos. A partir disso, 
+o programa tem as seugintes funcionalidades:
+
+Ler o ponto 1 com 2 valores ponto flutante x1,y1 (ler do teclado)
+Ler o ponto 2 com 2 valores ponto flutuante x2,y2 (ler do teclado)
+Calcular a distância euclidiana dos pontos usando as funções do TAD-PONTO!
+Exibir na saída (tela) o valor da distância calculada, com 2 casas após a vírgula.
